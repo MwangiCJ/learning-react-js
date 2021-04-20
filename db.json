@@ -4,19 +4,13 @@
       "id": 2,
       "text": "Deploy application",
       "day": "Feb 5th at 10:00am",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 3,
       "text": "Car Wash",
       "day": "Feb 6th at 12:20pm",
       "reminder": false
-    },
-    {
-      "text": "Repair bike",
-      "day": "Friday",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
